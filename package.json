@@ -250,7 +250,7 @@
     "yalc": "^1.0.0-pre.44"
   },
   "dependencies": {
-    "@snyk/code-client": "^3.4.0",
+    "@snyk/code-client": "^4.12.4",
     "lodash": "^4.17.21",
     "open": "^7.4.2"
   }
